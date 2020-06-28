@@ -1,4 +1,4 @@
-# ZOOMING INTO JULIA SET FRACTAL
+# ZOOMING INTO JULIA FRACTAL
 
 
 This Project is built on [Processing 3](https://processing.org/) 
